@@ -31,6 +31,8 @@ Node JS에 대해서 흥미와 관심이 많습니다.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 
+# Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umsehun&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
