@@ -38,7 +38,6 @@ Node JS에 대해서 흥미와 관심이 많습니다.
 
 # Github Stats  
 <a href="https://github.com/umsehun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umsehun&layout=compact&theme=nord&hide_border=true&hide=Python,Jupyter Notebook" /></a>
-> 
 
 
 
