@@ -13,8 +13,7 @@
 
 
 # Wakatime
-[![wakatime](https://wakatime.com/badge/user/umsehun.svg)](https://wakatime.com/@umsehun)
-https://wakatime.com/badge/user/75fc2ddd-ebf0-40d8-847d-ea29a833568a.svg
+[![wakatime](https://wakatime.com/badge/user/75fc2ddd-ebf0-40d8-847d-ea29a833568a.svg)](https://wakatime.com/@75fc2ddd-ebf0-40d8-847d-ea29a833568a)
 
 
 안녕하세요 저는 임세훈입니다. 백엔드 개발자가 저의 꿈이며
