@@ -40,7 +40,6 @@ Node JS에 대해서 흥미와 관심이 많습니다.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umsehun&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Most Used Languages
-<a href="https://github.com/umsehun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umsehun&layout=compact&theme=nord&hide_border=true" /></a> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umsehun&layout=compact&theme=nord&hide_border=true&cache_seconds=0)
 
 
