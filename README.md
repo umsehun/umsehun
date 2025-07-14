@@ -41,5 +41,17 @@ Node JS 와 Electron 에 대해서 흥미와 관심이 많습니다.
 
 
 # Github Stats  
-<a href="https://github.com/umsehun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umsehun&layout=compact&theme=nord&hide_border=true" />
+## 🔭 Featured Projects
+
+[![Repo: Loop_openAI](https://github-readme-stats.vercel.app/api/pin/?username=maildan&repo=Loop_openAI&theme=nord)](https://github.com/maildan/Loop_openAI)
+[![Repo: loop_web](https://github-readme-stats.vercel.app/api/pin/?username=maildan&repo=loop_web&theme=nord)](https://github.com/maildan/loop_web)
+[![Repo: novelElectron](https://github-readme-stats.vercel.app/api/pin/?username=maildan&repo=novelElectron&theme=nord)](https://github.com/maildan/novelElectron)
+[![Repo: Ada-back-2](https://github-readme-stats.vercel.app/api/pin/?username=GBSWAdateam&repo=Ada-back-2&theme=nord)](https://github.com/GBSWAdateam/Ada-back-2)
+[![Repo: backend_next.js](https://github-readme-stats.vercel.app/api/pin/?username=Def-teams&repo=backend_next.js&theme=nord)](https://github.com/Def-teams/backend_next.js)
+
+---
+
+## 📊 My GitHub Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umsehun&layout=compact&theme=nord&hide_border=true)
+
 
