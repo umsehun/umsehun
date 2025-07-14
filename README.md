@@ -52,7 +52,7 @@ Node JS 와 Electron 에 대해서 흥미와 관심이 많습니다.
 ---
 
 ## 📊 My GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=umsehun
+![GitHub stats](https://[your-vercel-app](https://github.com/anuraghazra/github-readme-stats).vercel.app/api?username=umsehun
   &show_icons=true
   &count_private=true
   &include_orgs=true
