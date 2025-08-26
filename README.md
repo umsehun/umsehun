@@ -37,7 +37,8 @@ Node JS 와 Electron 에 대해서 흥미와 관심이 많습니다.
 
 
 
-
+# codacy bage
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/105318a86b6e42eeb73b5ce251aa8505)](https://app.codacy.com/gh/maildan/loop/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 
 # Github Stats  
